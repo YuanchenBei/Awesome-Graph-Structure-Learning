@@ -16,9 +16,12 @@ This repository contains a curated list of papers on (or related to) **graph str
 | Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN | _KDD 2022_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539484) | N/A |
 | Towards Unsupervised Deep Graph Structure Learning | _WWW 2022_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186) |  [[Code]](https://github.com/GRAND-Lab/SUBLIME) |
 | GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction | _WWW 2022_ | Recommendation | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) | [[Code]](https://github.com/weicy15/GSL4Rec) |
+| Graph Structure Learning with Variational Information Bottleneck | _AAAI 2022_ |  General | [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/20335/20094) | [[Code]](https://github.com/VIB-GSL/VIB-GSL) |
 | Heterogeneous Graph Structure Learning for Graph Neural Networks | _AAAI 2021_ | General | [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/16600/16407) | [[Code]](https://github.com/AndyJZhao/HGSL) | 
+| Speedup Robust Graph Structure Learning with Low-Rank Information | _CIKM 2021_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482299) | N/A |
 | Graph Structure Learning for Robust Graph Neural Networks | _KDD 2020_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049) | [[Code]](https://github.com/ChandlerBang/Pro-GNN) |
 | DAG-GNN: DAG Structure Learning with Graph Neural Networks | _ICML 2019_ | General | [[PDF]](http://proceedings.mlr.press/v97/yu19a/yu19a.pdf) | [[Code]](https://github.com/fishmoon1234/DAG-GNN) |
+| Deep Structure Learning for Fraud Detection | _ICDM 2018_ | Anomaly Detection | [[PDF]](https://par.nsf.gov/servlets/purl/10098994) | [[Code]](https://github.com/zhao-tong/DeepFD-pyTorch) |
 
 ----------
 
