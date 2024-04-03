@@ -4,36 +4,51 @@
 
 This repository contains a curated list of papers on (or related to) **graph structure learning** (GSL), which are categorized based on their published years.
 
+## Keyword
+![](https://img.shields.io/badge/Application-green) The application task in each paper, e.g., general graph learning, recommendation, and anomaly detection.
+
 *Continuously updating!*
 
 -----
-### Papers
+## Research Paper
 
-| **Paper Title** | **Venue** | **Application** |**PDF Link** | **Code Link** |
-| --------------- | :--------: | :--------: | :--------: | :--------: | 
-| GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks | _KDD 2023_ | General | [[PDF]](https://arxiv.org/pdf/2306.11264.pdf) | [[Code]](https://github.com/WtaoZhao/GraphGLOW) |
-| SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization | _WWW 2023_ | General | [[PDF]](https://arxiv.org/pdf/2303.09778.pdf) | [[Code]](https://github.com/RingBDStack/SE-GSL) |
-| Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN | _KDD 2022_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539484) | N/A |
-| Towards Unsupervised Deep Graph Structure Learning | _WWW 2022_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186) |  [[Code]](https://github.com/GRAND-Lab/SUBLIME) |
-| GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction | _WWW 2022_ | Recommendation | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) | [[Code]](https://github.com/weicy15/GSL4Rec) |
-| Graph Structure Learning with Variational Information Bottleneck | _AAAI 2022_ |  General | [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/20335/20094) | [[Code]](https://github.com/VIB-GSL/VIB-GSL) |
-| Heterogeneous Graph Structure Learning for Graph Neural Networks | _AAAI 2021_ | General | [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/16600/16407) | [[Code]](https://github.com/AndyJZhao/HGSL) | 
-| Speedup Robust Graph Structure Learning with Low-Rank Information | _CIKM 2021_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482299) | N/A |
-| Graph Structure Learning for Robust Graph Neural Networks | _KDD 2020_ | General | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049) | [[Code]](https://github.com/ChandlerBang/Pro-GNN) |
-| DAG-GNN: DAG Structure Learning with Graph Neural Networks | _ICML 2019_ | General | [[PDF]](http://proceedings.mlr.press/v97/yu19a/yu19a.pdf) | [[Code]](https://github.com/fishmoon1234/DAG-GNN) |
-| Deep Structure Learning for Fraud Detection | _ICDM 2018_ | Anomaly Detection | [[PDF]](https://par.nsf.gov/servlets/purl/10098994) | [[Code]](https://github.com/zhao-tong/DeepFD-pyTorch) |
+### Year 2023
+(KDD 2023) **GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks** [[PDF]](https://arxiv.org/pdf/2306.11264.pdf) [[Code]](https://github.com/WtaoZhao/GraphGLOW) ![](https://img.shields.io/badge/General-green)
+
+(WWW 2023) **SE-GSL: A General and Effective Graph Structure Learning Framework through Structural Entropy Optimization** [[PDF]](https://arxiv.org/pdf/2303.09778.pdf) [[Code]](https://github.com/RingBDStack/SE-GSL) ![](https://img.shields.io/badge/General-green)
+
+### Year 2022
+(KDD 2022) **Reliable Representations Make A Stronger Defender: Unsupervised Structure Refinement for Robust GNN** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539484) ![](https://img.shields.io/badge/General-green)
+
+(WWW 2022) **Towards Unsupervised Deep Graph Structure Learning** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186) [[Code]](https://github.com/GRAND-Lab/SUBLIME) ![](https://img.shields.io/badge/General-green)
+
+(WWW 2022) **GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) [[Code]](https://github.com/weicy15/GSL4Rec) ![](https://img.shields.io/badge/Recommendation-green)
+
+(AAAI 2022) **Graph Structure Learning with Variational Information Bottleneck** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/20335/20094) [[Code]](https://github.com/VIB-GSL/VIB-GSL) ![](https://img.shields.io/badge/General-green)
+
+### Year 2021
+
+(AAAI 2021) **Heterogeneous Graph Structure Learning for Graph Neural Networks** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/16600/16407) [[Code]](https://github.com/AndyJZhao/HGSL) ![](https://img.shields.io/badge/General-green)
+
+(CIKM 2021) **Speedup Robust Graph Structure Learning with Low-Rank Information** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482299) ![](https://img.shields.io/badge/General-green)
+
+### Year 2020 & Before
+(KDD 2020) **Graph Structure Learning for Robust Graph Neural Networks**  [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049) [[Code]](https://github.com/ChandlerBang/Pro-GNN) ![](https://img.shields.io/badge/General-green)
+
+(ICML 2019) **DAG-GNN: DAG Structure Learning with Graph Neural Networks** [[PDF]](http://proceedings.mlr.press/v97/yu19a/yu19a.pdf) [[Code]](https://github.com/fishmoon1234/DAG-GNN) ![](https://img.shields.io/badge/General-green)
+
+(ICDM 2018) **Deep Structure Learning for Fraud Detection** [[PDF]](https://par.nsf.gov/servlets/purl/10098994) [[Code]](https://github.com/zhao-tong/DeepFD-pyTorch) ![](https://img.shields.io/badge/AnomalyDetection-green)
+
 
 ----------
 
-### Survey Papers
-
-| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
-| --------------- | :--------: | :--------: | :--------: | 
-| A Survey on Graph Structure Learning: Progress and Opportunities | _Arxiv 2022_ | [[PDF]](https://www.researchgate.net/profile/Yanqiao-Zhu/publication/358915998_A_Survey_on_Graph_Structure_Learning_Progress_and_Opportunities/links/621d708c9947d339eb7227c3/A-Survey-on-Graph-Structure-Learning-Progress-and-Opportunities.pdf) | N/A |
+## Survey Paper
+(Arxiv 2021) **A Survey on Graph Structure Learning: Progress and Opportunities** [[PDF]](https://arxiv.org/pdf/2103.03036.pdf)
 
 ----------
 
-### Benchmark
-| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
-| --------------- | :--------: | :--------: | :--------: | 
-| OpenGSL: A Comprehensive Benchmark for Graph Structure Learning | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2306.10280.pdf) | [[Code]](https://github.com/OpenGSL/OpenGSL) |
+## Benchmark
+(NIPS 2023) **OpenGSL: A Comprehensive Benchmark for Graph Structure Learning**  [[PDF]](https://arxiv.org/pdf/2306.10280.pdf) [[Code]](https://github.com/OpenGSL/OpenGSL)
+
+(NIPS 2023) **GSLB: The Graph Structure Learning Benchmark** [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/GSL-Benchmark/GSLB)
+
