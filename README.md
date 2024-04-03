@@ -22,7 +22,7 @@ This repository contains a curated list of papers on (or related to) **graph str
 
 (WWW 2022) **Towards Unsupervised Deep Graph Structure Learning** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512186) [[Code]](https://github.com/GRAND-Lab/SUBLIME) ![](https://img.shields.io/badge/General-green)
 
-(WWW 2022) **GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) [[Code]](https://github.com/weicy15/GSL4Rec) ![](https://img.shields.io/badge/Recommendation-green)
+(WWW 2022) **GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085) [[Code]](https://github.com/weicy15/GSL4Rec) ![](https://img.shields.io/badge/Recommendation-red)
 
 (AAAI 2022) **Graph Structure Learning with Variational Information Bottleneck** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/20335/20094) [[Code]](https://github.com/VIB-GSL/VIB-GSL) ![](https://img.shields.io/badge/General-green)
 
@@ -37,7 +37,7 @@ This repository contains a curated list of papers on (or related to) **graph str
 
 (ICML 2019) **DAG-GNN: DAG Structure Learning with Graph Neural Networks** [[PDF]](http://proceedings.mlr.press/v97/yu19a/yu19a.pdf) [[Code]](https://github.com/fishmoon1234/DAG-GNN) ![](https://img.shields.io/badge/General-green)
 
-(ICDM 2018) **Deep Structure Learning for Fraud Detection** [[PDF]](https://par.nsf.gov/servlets/purl/10098994) [[Code]](https://github.com/zhao-tong/DeepFD-pyTorch) ![](https://img.shields.io/badge/AnomalyDetection-green)
+(ICDM 2018) **Deep Structure Learning for Fraud Detection** [[PDF]](https://par.nsf.gov/servlets/purl/10098994) [[Code]](https://github.com/zhao-tong/DeepFD-pyTorch) ![](https://img.shields.io/badge/AnomalyDetection-blue)
 
 
 ----------
