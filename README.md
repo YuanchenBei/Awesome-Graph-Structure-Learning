@@ -14,6 +14,8 @@ The application scenario of the graph structure learning paper, e.g. ![](https:/
 ## Research Paper
 
 ### Year 2024
+(WWW 2024) **Challenging Low Homophily in Social Recommendation** [[PDF]](https://arxiv.org/abs/2401.14606) ![](https://img.shields.io/badge/Recommendation-red)
+
 (TKDE 2024) **Bi-Level Graph Structure Learning for Next POI Recommendation** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10521856) ![](https://img.shields.io/badge/Recommendation-red)
 
 ### Year 2023
