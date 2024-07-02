@@ -27,6 +27,8 @@ The application scenario of the graph structure learning paper, e.g. ![](https:/
 
 (ICDE 2023) **Dynamic Hypergraph Structure Learning for Traffic Flow Forecasting** [[PDF]](https://arxiv.org/pdf/2309.12028) ![](https://img.shields.io/badge/General(Hypergraph)-green)
 
+(IJCAI 2023) **Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification** [[PDF]](https://www.ijcai.org/proceedings/2023/0234.pdf) [[Code]](https://github.com/KellyGong/SparseGAD) ![](https://img.shields.io/badge/AnomalyDetection-blue)
+
 (ICDM 2023) **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection** [[PDF]](https://arxiv.org/pdf/2312.05526) [[Code]](https://github.com/YuanchenBei/RAND) ![](https://img.shields.io/badge/AnomalyDetection-blue)
 
 (WSDM 2023) **Self-Supervised Graph Structure Refinement for Graph Neural Networks** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570455) [[Code]](https://github.com/andyjzhao/WSDM23-GSR) ![](https://img.shields.io/badge/General-green)
